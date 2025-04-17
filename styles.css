@@ -98,6 +98,26 @@ body {
     height: 250px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
+    background-color: yellow;
+}
+
+.img-1 {
+    background-color: #e0e0e0;
+}
+.img-2 {
+    background-color: #d0ebff;
+}
+.img-3 {
+    background-color: #c3f7e3;
+}
+.img-4 {
+    background-color: #e6e0fa;
+}
+.img-5 {
+    background-color: #ffdce0;
+}
+.img-6 {
+    background-color: #fff3c4;
 }
 
 .project-link {
@@ -111,7 +131,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 10px;
-    padding: 0px 25px;
+    padding: 10px 25px 0px 25px;
 }
 
 /*********CONTACT SECTION*****/
